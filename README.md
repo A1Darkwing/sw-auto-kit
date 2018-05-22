@@ -1,2 +1,2 @@
 # sw-auto-kit
-Summoner War Auto Click
+Summoner War Auto Click :D
